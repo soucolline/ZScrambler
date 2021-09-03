@@ -1,0 +1,6 @@
+framework module ZScrambler {
+  umbrella header "ZScrambler-umbrella.h"
+
+  export *
+  module * { export * }
+}

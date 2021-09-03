@@ -1,0 +1,6 @@
+framework module Pods_ZScrambler_Tests {
+  umbrella header "Pods-ZScrambler_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

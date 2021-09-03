@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZScrambler_Example' do
+  pod 'ZScrambler', :path => '../'
+
+  target 'ZScrambler_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

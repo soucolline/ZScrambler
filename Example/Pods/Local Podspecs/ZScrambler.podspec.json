@@ -1,0 +1,22 @@
+{
+  "name": "ZScrambler",
+  "version": "0.1.0",
+  "summary": "A short description of ZScrambler.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Thomas Guilleminot/ZScrambler",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Thomas Guilleminot": "guilleminot.thomas@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Thomas Guilleminot/ZScrambler.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZScrambler/Classes/**/*"
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ZScrambler (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ZScrambler (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ZScrambler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ZScrambler: 2439778187f596f4fb1391c02673de8f82b0c743
+
+PODFILE CHECKSUM: 146654ba657de2519e6a25fe082fbbc4860fb9c3
+
+COCOAPODS: 1.10.1
